@@ -1,4 +1,4 @@
-// Website you intended to retrieve for users.
+// Website you intended to retrieve for users
 
 const upstream = 'www.google.com'
 
