@@ -5,8 +5,8 @@ Based in Taiwan, we provide Google search services for Chinese people all over t
 
 我们立足于中国台湾, 为全球华人提供 Google 搜索服务.
 
-https://www.gfw-fucked.ga 根據您的地址選擇 Google 伺服器
+[https://www.gfw-fucked.ga](https://www.gfw-fucked.ga) 根據您的地址選擇 Google 伺服器
 
-https://de.gfw-fucked.ga  DE 德國伺服器
+[https://de.gfw-fucked.ga](https://de.gfw-fucked.ga)
 
 https://[2a02:180:6:1::1879]/ IPV6 Only
